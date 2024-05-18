@@ -1,4 +1,4 @@
-package in.priya.repositry;
+package in.priya.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -16,8 +16,8 @@ import org.springframework.web.client.RestTemplate;
 
 import in.priya.entity.ApiRequestResponse;
 import in.priya.entity.User;
+import in.priya.repository.ApiRequestResponseRepository;
 import in.priya.repository.UserRepository;
-import in.priya.repositry.ApiRequestResponseRepository;
 
 @Service
 public class CoinServiceImpl implements CoinService {
